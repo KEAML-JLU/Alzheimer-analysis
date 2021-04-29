@@ -6,13 +6,15 @@ Code for papaer: [Trends in Alzheimer's Disease Research Based upon Machine Lear
 ## Citing this repository
 If you find this code useful in your research, please consider citing us:  
 ```
-@article{2019Trends,
-  title={Trends in Alzheimer's Disease Research Based upon Machine Learning Analysis of PubMed Abstracts},
-  author={ Guan, R.  and  Wen, X.  and Y Liang and  Xu, D.  and  He, B.  and  Feng, X. },
-  journal={International Journal of Biological Sciences},
-  volume={ 15},
+@article{guan2019trends,
+  title={Trends in Alzheimer's disease research based upon machine learning analysis of PubMed abstracts},
+  author={Guan, Renchu and Wen, Xiaojing and Liang, Yanchun and Xu, Dong and He, Baorun and Feng, Xiaoyue},
+  journal={International journal of biological sciences},
+  volume={15},
   number={10},
+  pages={2065},
   year={2019},
+  publisher={Ivyspring International Publisher}
 }
 ```
 
